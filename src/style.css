@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.text-primary {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.text-secondary {
+  font-family: "Alata", sans-serif;
+}

@@ -2,7 +2,7 @@
 import SecMain from "../assets/image-interactive.jpg";
 </script>
 <template>
-  <section class="max-w-[1200px] m-auto py-6 md:py-7 lg:py-8">
+  <section>
     <article
       class="lg:relative flex flex-col items-center lg:flex-row lg:items-start"
     >
